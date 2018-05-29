@@ -6,6 +6,7 @@
 *.ko
 *.obj
 *.elf
+no_ref_psnr
 
 # Linker output
 *.ilk
